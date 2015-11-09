@@ -1,0 +1,8 @@
+---
+listen_port: 8090
+debug: true
+
+graphite:
+  enable: false
+  host: 127.0.0.1
+  port: 2003

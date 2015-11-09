@@ -1,0 +1,9 @@
+# Python
+*.pyc
+.coverage
+
+# IntelliJ
+.idea
+
+# pyenv
+.python-version
